@@ -1,4 +1,4 @@
-# Handwritten-digit-recognition-# MNIST Classification Project
+# MNIST Classification Project
 
 ## Overview
 This project implements and evaluates various machine learning and deep learning models on the MNIST dataset. The goal is to classify handwritten digits using Neural Networks (NN), Convolutional Neural Networks (CNN), and Support Vector Machines (SVM).
@@ -36,6 +36,8 @@ This project implements and evaluates various machine learning and deep learning
 | CNN     | ~99%     | Superior for image data    | Computationally expensive        |
 | SVM     | ~97%     | Effective for small data   | Struggles with large dimensions  |
 
+
+![Model Comparison](https://github.com/omkarnitturkar/Handwritten-digit-recognition/blob/main/Model%20accuray%20Comparision.png)
 ### Visualizations
 - Confusion matrices for all models.
 - Training and validation loss/accuracy plots for NN and CNN.
